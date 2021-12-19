@@ -9,5 +9,5 @@
 
 
 ## 效果视频
-https://github.com/JDiTian/zsc/blob/main/docs/video1.mp4
-https://github.com/JDiTian/zsc/blob/main/docs/video2.mp4
+- [docs/video1.mp4](https://github.com/JDiTian/zsc/blob/main/docs/video1.mp4)
+- [docs/video2.mp4](https://github.com/JDiTian/zsc/blob/main/docs/video2.mp4)
