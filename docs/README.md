@@ -7,6 +7,10 @@
 ## 训练图片
 ![Screenhost](https://github.com/JDiTian/zsc/blob/main/docs/screenhost.png?raw=true "Screenhost")
 
+## 效果图片
+![Screenhost](https://github.com/JDiTian/zsc/blob/main/docs/p1.png?raw=true "Screenhost")
+![Screenhost](https://github.com/JDiTian/zsc/blob/main/docs/p2.png?raw=true "Screenhost")
+![Screenhost](https://github.com/JDiTian/zsc/blob/main/docs/p3.png?raw=true "Screenhost")
 
 ## 效果视频
 - [docs/video1.mp4](https://github.com/JDiTian/zsc/blob/main/docs/video1.mp4)
